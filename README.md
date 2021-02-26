@@ -1,5 +1,5 @@
 # Prog1_Scratchprojekt
-##Játékmenet: Dínót irányítva fel kell szedni az aranyérméket, elkerülni vele a felhőket.
+Játékmenet: Dínót irányítva fel kell szedni az aranyérméket, elkerülni vele a felhőket.
 
 Írányítás: nyilakkal, plusz Space gomb lenyomvatartása.
 
